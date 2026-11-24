@@ -1,1 +1,4 @@
 https://en.wikipedia.org/wiki/Supergene_(geology)
+
+quote:
+"Supergene processes include the predominance of meteoric water circulation (i.e. water derived from precipitation) with concomitant oxidation and chemical weathering. The descending meteoric waters oxidize the primary (hypogene) sulfide ore minerals and redistribute the metallic ore elements. Supergene enrichment occurs at the base of the oxidized portion of an ore deposit. Metals that have been leached from the oxidized ore are carried downward by percolating groundwater, and react with hypogene sulfides at the supergene-hypogene boundary. The reaction produces secondary sulfides with metal contents higher than those of the primary ore. This is particularly noted in copper ore deposits where the copper sulfide minerals chalcocite (Cu2S), covellite (CuS), digenite (Cu18S10), and djurleite (Cu31S16) are deposited by the descending surface waters."
